@@ -56,6 +56,12 @@ input{
     align-self: center;
 }
 
+textarea {
+  width: 90%;
+  max-width: 100%;
+  align-self: center;
+}
+
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
